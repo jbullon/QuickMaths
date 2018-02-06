@@ -1,15 +1,15 @@
 //
-//  MainView.swift
+//  CalculusView.swift
 //  QuickMaths
 //
-//  Created by Jacob Bullon on 2/2/18.
+//  Created by Jacob Bullon on 2/5/18.
 //  Copyright © 2018 Jacob Bullon. All rights reserved.
 //
 
 import Foundation
 import UIKit
 
-class MainView: UIViewController {
+class CalculusView: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -18,5 +18,5 @@ class MainView: UIViewController {
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
     }
-    
 }
+
