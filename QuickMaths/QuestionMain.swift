@@ -16,6 +16,7 @@ class ViewController: UIViewController {
                     "Calculate the x-intercept of the line: y=6x-12",
                     "Calculate the slope of the line: 25x-18=22",
                     "Calculate the y-intercept of the line: 14x+15"]
+    
     let answers = [["13.3","0.07","6","0.13","0.75","-13.3"],
                    ["8","0.07","13.3","4","-8","-13.3",],
                    ["3","-12","6","12","-6","-13.3",],
